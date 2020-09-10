@@ -3,7 +3,7 @@
 A user can add and an existing green house(sensors and actuators) to the management interface and monitor throught the dashboard provided.
 The user can also chat with a supervisor throught the chat platform.
 
-The below video illustrates all the features in the green hous managment interface
+The below video illustrates all the features in the green house management interface
 
 ## Make sure to refactor the below code line as required;
 
